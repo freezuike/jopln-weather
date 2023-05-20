@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "cf.zuike.joplin-weather",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin-weather",
+	"description": "joplin-weather",
+	"author": "醉客",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
